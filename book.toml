@@ -1,0 +1,12 @@
+[book]
+authors = ["AdriDevelopsThings"]
+language = "de"
+multilingual = false
+src = "src"
+title = "Adris Rezepte"
+description = "Meine Rezepte"
+
+[output.html]
+copy-fonts = true
+git-repository-url = "https://github.com/adridevelopsthings/recipes"
+git-repository-icon = "fa-github"
