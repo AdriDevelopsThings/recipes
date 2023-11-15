@@ -5,6 +5,8 @@
     - [Langos (ungarisch)](./hauptgerichte/langos.md)
     - [Linseneintopf](./hauptgerichte/linseneintopf.md)
     - [Nudelauflauf](./hauptgerichte/nudelauflauf.md)
+    - [Schupfnudeln (selbstgemacht)](./hauptgerichte/schupfnudeln-selbstgemacht.md)
+    - [Schupfnudelpfanne](./hauptgerichte/schupfnudelpfanne.md)
 - [Backen](./backen/README.md)
     - [Zimtschnecken](./backen/zimtschnecken.md)
 
