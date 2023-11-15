@@ -7,6 +7,8 @@
     - [Nudelauflauf](./hauptgerichte/nudelauflauf.md)
     - [Schupfnudeln (selbstgemacht)](./hauptgerichte/schupfnudeln-selbstgemacht.md)
     - [Schupfnudelpfanne](./hauptgerichte/schupfnudelpfanne.md)
+- [Tupperwaren Parties](./tupperwaren-parties/README.md)
+    - [Nudelsalat mit Mozzarella](./tupperwaren-parties/nudelsalat-mozzarella.md)
 - [Backen](./backen/README.md)
     - [Zimtschnecken](./backen/zimtschnecken.md)
 
