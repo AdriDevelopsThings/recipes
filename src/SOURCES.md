@@ -10,3 +10,4 @@ Das ist alles nur geklaut undzwar von:
 - [Schupfnudelpfanne](https://www.cuisini-blog.de/schupfnudel-pfanne/)
 - [Nudelsalat mit Mozzarella](https://www.rewe.de/rezepte/nudelsalat-mit-mozzarella/)
 - [Zimtschnecken](https://www.einfachbacken.de/rezepte/zimtschnecken-einfach-selbstgemacht)
+- [Schmandkuchen](https://www.kochbar.de/rezept/164503/Pfirsich-Schmand-Kuchen.html)

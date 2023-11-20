@@ -10,6 +10,7 @@
 - [Tupperwaren Parties](./tupperwaren-parties/README.md)
     - [Nudelsalat mit Mozzarella](./tupperwaren-parties/nudelsalat-mozzarella.md)
 - [Backen](./backen/README.md)
+    - [Schmandkuchen](./backen/schmandkuchen.md)
     - [Zimtschnecken](./backen/zimtschnecken.md)
 
 - [Quellen](./SOURCES.md)
