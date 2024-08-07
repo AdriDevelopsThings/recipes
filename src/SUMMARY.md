@@ -5,6 +5,7 @@
     - [Langos (ungarisch)](./hauptgerichte/langos.md)
     - [Linseneintopf](./hauptgerichte/linseneintopf.md)
     - [Nudelauflauf](./hauptgerichte/nudelauflauf.md)
+    - [Reibekuchen](./hauptgerichte/reibekuchen.md)
     - [Schupfnudeln (selbstgemacht)](./hauptgerichte/schupfnudeln-selbstgemacht.md)
     - [Schupfnudelpfanne](./hauptgerichte/schupfnudelpfanne.md)
 - [Tupperwaren Parties](./tupperwaren-parties/README.md)

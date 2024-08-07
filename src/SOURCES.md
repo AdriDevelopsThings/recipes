@@ -8,6 +8,7 @@ Das ist alles nur geklaut undzwar von:
 - [Linseneintopf](https://www.lidl-kochen.de/rezeptwelt/klassischer-linseneintopf-150366)
 - [Schupfnudeln (selbstgemacht)](https://www.chefkoch.de/rezepte/4094871643016343/Selbstgemachte-Schupfnudeln.html)
 - [Schupfnudelpfanne](https://www.cuisini-blog.de/schupfnudel-pfanne/)
+- [Reibekuchen](https://www.chefkoch.de/rezepte/230461094561030/Grossmutters-Reibekuchen.html)
 - [Nudelsalat mit Mozzarella](https://www.rewe.de/rezepte/nudelsalat-mit-mozzarella/)
 - [Zimtschnecken](https://www.einfachbacken.de/rezepte/zimtschnecken-einfach-selbstgemacht)
 - [Schmandkuchen](https://www.kochbar.de/rezept/164503/Pfirsich-Schmand-Kuchen.html)
